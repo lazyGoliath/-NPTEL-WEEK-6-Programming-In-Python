@@ -2,7 +2,7 @@
 Find all nptel course Programming in python related resources and solutions here.
 
 ## WEEK 6
-  - [Quiz Solution](quiz.md)
+  - [Quiz Solution](Week6/quiz.md)
 
 ## Resources available :
 
