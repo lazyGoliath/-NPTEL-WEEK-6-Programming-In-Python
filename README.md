@@ -2,7 +2,7 @@
 Find all nptel course Programming in python related resources and solutions here.
 
 ## WEEK 6
-  - [Quiz Solution](https://github.com/lazyGoliath/NPTEL-WEEK-6-Programming-In-Python/tree/main/Week6/quiz.md)
+  - [Quiz Solution](quiz.md)
 
 ## Resources available :
 
